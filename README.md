@@ -20,5 +20,7 @@ pesquisei usando os prompts de comandos sobre o assunto no ChatGPT e extraí pra
 
 ## 🚀 Resultados
 Enfim saiu um e-book com imagens e de fácil leitura para incentivar quem pretende praticar atividades físicas, focando a perda de peso e com exrcícios que ajudam no cardio para reduzir o colesterol alto.
+O e-book pode ser vizualizado no seguinte acesso: https://github.com/ilma2025/Criando-um-e-book.git
+
 ## 💭 Reflexão (Opcional)
 Um pontapé inicial para cuidar da saúde, fazer exercícios ao ar livre, em casa ou na academia!
