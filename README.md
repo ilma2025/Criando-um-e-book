@@ -1,7 +1,7 @@
 # Criando-um-e-book
 Surgiu da recomendação em aula da DIO no bootcamp: CAIXA - IA Generativa com Microsoft Copilot assistida em dezembro de 2024.
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto ;)
 Saúde em Movimento: Exercícios Fáceis para Quem Quer Começar Agora
 
 ## 📒 Descrição
